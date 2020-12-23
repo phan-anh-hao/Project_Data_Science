@@ -1,4 +1,4 @@
-# Introduction    
+# Introduction of Data Science  
 ### Final Project of "Introduction of Data Science"
 
 #### Thông tin nhóm  
