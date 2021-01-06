@@ -1,0 +1,28 @@
+***** DESCRIPTION WEATHER *****
+Vị trí: Hồ Chí Minh City
+Thời tiết 4 năm (2016,2017,2018,2019)
+Predictability:
++ 80: Thunder
++ 77: Heavy Rain
++ 75: Light Rain
++ 73: Showers
++ 71: Heavy Cloud
++ 70: Light Cloud
++ 68: Clear
+
+ID: id của mỗi ngày trong từng năm
+State Name: tên trạng thái của ngày (Clear,Light Cloud,...)
+State Abbreviation: viết tắt của trạng thái (c,lc,...)
+Wind Direction: Hướng gió
+Created: Thời gian cụ thể trong ngày
+Applicable Date: Ngày áp dụng
+Min Temp: Nhiệt độ tối thiểu
+Max Temp: Nhiệt đố tối đa
+The Temp: Nhiệt độ
+Wind Speed: Tốc độ của gió
+Air Pressure: Áp suất không khí
+Humidity: Độ ẩm
+Visibility: Khoảng cách nhìn thấy
+
+
+
