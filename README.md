@@ -24,8 +24,8 @@ Trong đồ án này, chúng ta sẽ phân tích các thông số thời tiết 
 
 
 #### Nguồn tham khảo  
-- www.metaweather.com (API data)  
-- scikit-learn.org 
+- [Metaweather] (www.metaweather.com)    
+- [Sklearn] (scikit-learn.org)    
 - File tài liệu bài tập  
 
 
