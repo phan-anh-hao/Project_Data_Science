@@ -25,7 +25,9 @@ Trong đồ án này, chúng ta sẽ phân tích các thông số thời tiết 
 
 #### Nguồn tham khảo  
 - [Metaweather](www.metaweather.com)      
-- [Sklearn](scikit-learn.org)      
+- [Sklearn](scikit-learn.org)  
+- [Imblearn](imbalanced-learn.org)
+- [Imblanced Dataset](https://datascience.stackexchange.com/questions/61858/oversampling-undersampling-only-train-set-only-or-both-train-and-validation-set)
 - File tài liệu bài tập  
 
 
