@@ -27,7 +27,8 @@ Trong đồ án này, chúng ta sẽ phân tích các thông số thời tiết 
 - [Metaweather](www.metaweather.com)      
 - [Sklearn](scikit-learn.org)  
 - [Imblearn](imbalanced-learn.org)
-- [Imblanced Dataset](https://datascience.stackexchange.com/questions/61858/oversampling-undersampling-only-train-set-only-or-both-train-and-validation-set)
+- [Imblanced Dataset 1](https://datascience.stackexchange.com/questions/61858/oversampling-undersampling-only-train-set-only-or-both-train-and-validation-set)
+- [Imblanced Dataset 2](https://datascience.stackexchange.com/questions/8895/with-unbalanced-class-do-i-have-to-use-under-sampling-on-my-validation-testing)
 - File tài liệu bài tập  
 
 
