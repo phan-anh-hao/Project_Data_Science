@@ -4,8 +4,8 @@
 #### Thông tin nhóm  
 * STT: 37  
 * Thành viên:  
-  + Phan Anh Hào      -  18120356
-  + Nguyễn Dương Binl -  18120292
+  + Phan Anh Hào      -  18120356 - [Ryobil](https://github.com/Ryobinl)
+  + Nguyễn Dương Binl -  18120292 - [phan-anh-hao](https://github.com/phan-anh-hao)  
   
 #### Chủ đề
 Bộ dữ liệu : Thời tiết của Thành Phố Hồ Chí Minh  
