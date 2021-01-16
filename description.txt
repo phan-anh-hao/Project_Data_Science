@@ -10,19 +10,19 @@ Predictability:
 + 70: Light Cloud
 + 68: Clear
 
-ID: id của mỗi ngày trong từng năm
-State Name: tên trạng thái của ngày (Clear,Light Cloud,...)
-State Abbreviation: viết tắt của trạng thái (c,lc,...)
-Wind Direction: Hướng gió
-Created: Thời gian cụ thể trong ngày
-Applicable Date: Ngày áp dụng
-Min Temp: Nhiệt độ tối thiểu
-Max Temp: Nhiệt đố tối đa
-The Temp: Nhiệt độ
-Wind Speed: Tốc độ của gió
-Air Pressure: Áp suất không khí
-Humidity: Độ ẩm
-Visibility: Khoảng cách nhìn thấy
+ID (integer): id của mỗi ngày trong từng năm
+State Name (string): tên trạng thái của ngày (Clear,Light Cloud,...)
+State Abbreviation (string): viết tắt của trạng thái (c,lc,...)
+Wind Direction (float): Hướng gió
+Created (datetime): Thời gian cụ thể trong ngày
+Applicable Date (datetime): Ngày áp dụng
+Min Temp (integer): Nhiệt độ tối thiểu
+Max Temp (integer): Nhiệt độ tối đa
+The Temp (integer): Nhiệt độ
+Wind Speed (float): Tốc độ của gió
+Air Pressure (float): Áp suất không khí
+Humidity (float): Độ ẩm
+Visibility (float): Khoảng cách nhìn thấy
 
 
 
