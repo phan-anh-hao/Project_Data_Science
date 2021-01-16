@@ -14,12 +14,11 @@ Trong đồ án này, chúng ta sẽ phân tích các thông số thời tiết 
 
 
 #### File đồ án  
-- Assignment.docx : File phân công làm việc  
+- Teamwork.docx : File phân công làm việc  
 - Main.ipynb: File notebook  
-- Slide (Brief).ipynb: File tóm tắt notebook  
+- Slide.pdf: File tóm tắt notebook  
 - description.txt : File mô tả dữ liệu  
-- Data/Data.csv: File dữ liệu  
-- Data/Date.txt: File chứa ngày tháng năm dữ liệu    
+- Data/Data.csv: File dữ liệu      
 - Data/Get_Data.ipynb: File code thu thập dữ liệu  
 
 
